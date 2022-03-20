@@ -1,2 +1,2 @@
 # ascii to binary
- convert your message into binary
+ ASCII to binary converter
