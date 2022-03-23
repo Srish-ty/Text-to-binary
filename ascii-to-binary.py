@@ -1,5 +1,5 @@
 #ascii to binary
-chara=input()
+chara=str(input())
 bina=""
 for c in chara:
     ascival=ord(c)
