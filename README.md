@@ -1,2 +1,2 @@
-# ascii to binary
+# Text to Binary
  ASCII to binary converter
